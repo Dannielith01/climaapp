@@ -1,0 +1,24 @@
+{
+  "name": "climaapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dannielith01/climaapp.git"
+  },
+  "author": "Daniel Zavala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dannielith01/climaapp/issues"
+  },
+  "homepage": "https://github.com/Dannielith01/climaapp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "colors": "^1.3.0",
+    "yargs": "^12.0.1"
+  }
+}
