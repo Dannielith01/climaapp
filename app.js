@@ -1,4 +1,4 @@
-const axios = require('axios');
+﻿const axios = require('axios');
 
 const argv = require('yargs')
                 .options({
@@ -21,4 +21,4 @@ axios.get(`https://maps.googleapis.com/maps/api/geocode/json?address=${ encodeUr
         console.log(lat);
         console.log(lng);
     })
-    .catch();
+    .catch();  
